@@ -14,3 +14,4 @@ The current user is set on session initialization through the `Application` clas
 
 **Note:** After starting the app with `mvn` or by running the `Application` class, a hard reload may be required for the app to function.
 
+![Screenshot of the application](screenshot.png)
